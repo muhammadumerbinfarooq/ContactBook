@@ -21,7 +21,7 @@ The Contact Book is an interactive Python script where users can manage their co
 
 1. **Clone the repository:**
     ```bash
-    https://github.com/muhammadumermemon/ContactBook.git
+    https://github.com/muhammadumerbinfarooq/ContactBook.git
     ```
 
 2. **Navigate to the project directory:**
